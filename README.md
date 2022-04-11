@@ -1,4 +1,5 @@
 
+ <br/>
  ### <div align="center">I'm Rubén García Sánchez, a full-stack developer 👨‍💻 from Valencia, Spain.🚀</div>  
   
 
@@ -85,7 +86,8 @@
 <div align="center">
 <a href="https://github.com/rubengs2003" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
+</a>
+ <a href="mailto:rubengs.informatica@gmail.com">Send me an email.</a>
 </div>  
   
 
