@@ -1,9 +1,5 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
 
-### <div align="center">I'm Rubén García Sánchez, a full-stack developer 👨‍💻 from Valencia, Spain.🚀</div>  
+ ### <div align="center">I'm Rubén García Sánchez, a full-stack developer 👨‍💻 from Valencia, Spain.🚀</div>  
   
 
 - 🔭 I’m currently working on [rgtelebotjs.](https://github.com/RUBENgs2003/rgtelebotjs)  
