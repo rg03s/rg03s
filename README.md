@@ -2,7 +2,7 @@
  
  
  
- ### <div align="center">I'm Rubén García, a full-stack developer 👨‍💻 from Valencia, Spain.🚀</div>  
+ ### <div align="center">I'm Rubén García, a developer 👨‍💻 from Valencia, Spain.🚀</div>  
  
  <br/><br/>
   
