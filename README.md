@@ -2,13 +2,9 @@
  
  
  
- ### <div align="center">I'm Rubén García, a developer 👨‍💻 from Valencia, Spain.🚀</div>  
+ ### <div align="center">Hi! 🚀</div>  
  
  <br/><br/>
-  
-
-- 🔭 I’m currently working on [rgtelebotjs.](https://github.com/RUBENgs2003/rgtelebotjs)  
-  
 
 - 🌱 I’m currently learning nodeJS, C#, socketIO and Java.  
   
