@@ -1,20 +1,3 @@
-
- 
- 
- 
- ### <div align="center">Hi! 🚀</div>  
- 
- <br/><br/>
-
-- 🌱 I’m currently learning nodeJS, C#, socketIO and Java.  
-  
-
-- ❓ Ask me about anything related to JavaScript  
-  
-
-<br/>  
-
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
