@@ -12,14 +12,9 @@
 
 <div align="left">
 </div>
-
 ###
 
-<img align="right" height="130" src="https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952o7jhhekegepl7hfznuicp0g1uv5i37eutol5yehb&ep=v1_gifs_search&rid=200w.gif&ct=g"  />
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
