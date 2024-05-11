@@ -106,7 +106,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rubengs2003.rubengs2003&left_text=Profile%20views"  />
+  <img src="https://komarev.com/ghpvc/?username=rubengs2003&&style=flat-square"  />
 </div>
 
 ###
